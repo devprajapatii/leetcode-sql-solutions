@@ -7,3 +7,4 @@ LEFT JOIN Company c
     AND c.name = 'RED'
 GROUP BY s.sales_id, s.name
 HAVING COUNT(c.com_id) = 0;
+ 

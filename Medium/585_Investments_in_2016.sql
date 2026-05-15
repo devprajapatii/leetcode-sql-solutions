@@ -12,3 +12,4 @@ AND (LAT, LON) IN (
     GROUP BY LAT, LON
     HAVING COUNT(*) = 1
 );
+ 

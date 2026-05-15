@@ -4,3 +4,4 @@ SELECT score,
     ) AS "rank"
 FROM SCORES
 ORDER BY SCORE DESC;
+ 

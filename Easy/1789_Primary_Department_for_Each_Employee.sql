@@ -9,3 +9,4 @@ WHERE PRIMARY_FLAG = 'Y'
         GROUP BY EMPLOYEE_ID
         HAVING COUNT(*) = 1
 );
+ 

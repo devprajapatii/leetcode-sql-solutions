@@ -8,3 +8,4 @@ WHERE PRODUCT_ID IN (
         MIN(SALE_DATE) >= '2019-01-01'
         AND MAX(SALE_DATE) <= '2019-03-31'
 );
+ 

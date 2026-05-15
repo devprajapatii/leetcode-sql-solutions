@@ -7,3 +7,4 @@ SELECT
         ELSE 'No'
     END AS triangle
 FROM Triangle;
+ 

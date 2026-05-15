@@ -9,3 +9,4 @@ SELECT
         ELSE 'Leaf'
     END AS TYPE
 FROM TREE;
+ 

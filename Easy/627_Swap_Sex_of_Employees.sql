@@ -4,3 +4,4 @@ SET SEX =
         WHEN SEX = 'm' THEN 'f'
         ELSE 'm'
     END;
+ 

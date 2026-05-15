@@ -13,3 +13,4 @@ WHERE (player_id, event_date) IN (
     FROM activity
     GROUP BY player_id
 );
+ 
